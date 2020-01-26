@@ -17,6 +17,6 @@ Non-case sensitive.
 ## Solving
 
 This one is just basic knowledge about cookies. So what are called cookies that store your information and settings for future visits ?
-A persisten cookies.
+A persistent cookie.
 
 flag : rtcp{persistent_cookies}
