@@ -17,3 +17,13 @@ But oh? What's this? It seems the GIANt dropped this behind while he was screami
 This challenge still follows typical flag format, just wrap your answer with rtcp{answer_here}.
 
 Non-case sensitive.
+
+## Solving
+
+The thing is to recognize that this is a md5 hash. Once that this is done, just use a hash cracker and you're done : 
+
+![image](https://user-images.githubusercontent.com/57148042/73136402-7eaabe80-404d-11ea-8374-b1838e8d7f75.png)
+
+Without forgetting to put it in the right format, we get the flag.
+
+flag : rtcp{chocolate_mmm}
