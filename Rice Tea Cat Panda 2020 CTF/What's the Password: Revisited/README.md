@@ -43,3 +43,9 @@ so let's do it, and make it a python script : (remember that the inverse operati
 Now execute the string and we get our password :
 
 ![image](https://user-images.githubusercontent.com/57148042/73139297-f3d9bc00-406c-11ea-82c9-315b24be9707.png)
+
+Last step, input the password into the binary, and get the flag : 
+
+![image](https://user-images.githubusercontent.com/57148042/73139358-867a5b00-406d-11ea-8bff-3784f4862afb.png)
+
+flag : rtcp{fL492_r_50m371m32\5Pr34D_0U7}
