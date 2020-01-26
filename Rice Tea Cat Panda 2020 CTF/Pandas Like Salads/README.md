@@ -13,3 +13,9 @@ Did you know a new panda was added to the Washington DC zoo recently? Yep, appar
 No hints.
 
 ## Solving
+
+This time one png file is given with the challenge, which contains some message written in a weird alphabet. By searching around 
+dcode[Dcode](https://dcode.fr) we find that the alphabet used is the pig pen alphabet, and we translate it : 
+
+![image](https://user-images.githubusercontent.com/57148042/73136973-f54aba80-4053-11ea-9330-a5707b8f4846.png)
+
