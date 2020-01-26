@@ -19,7 +19,7 @@ and look at its content :
 
 ![image](https://user-images.githubusercontent.com/57148042/73142182-20510080-408c-11ea-8ccc-6b6d4966b9ab.png)
 
-Let's not fall in the obvious `/flag` trap and head straight to `robot-nurses` to get our flag :
+Let's not fall in the obvious `/flag` trap and head straight to `/robot-nurses` to get our flag :
 
 ![image](https://user-images.githubusercontent.com/57148042/73142195-47a7cd80-408c-11ea-9a4a-26e3bb7ac17c.png)
 
