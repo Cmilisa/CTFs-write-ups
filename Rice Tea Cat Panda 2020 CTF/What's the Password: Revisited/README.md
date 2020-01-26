@@ -28,7 +28,7 @@ We can see the line where the binary asks for a password, the line that gets our
 at the end.
 
 What we are really interested in though is the for loop in the middle. It loops over 20 indices, and compares some array in memory
-to what we entered, with a twist. First let's look at the `byte_201020`{.python} location in memory :
+to what we entered, with a twist. First let's look at the `byte_201020` location in memory :
 
 ![image](https://user-images.githubusercontent.com/57148042/73139253-5aaaa580-406c-11ea-81ab-0fb11a97ce1f.png)
 
