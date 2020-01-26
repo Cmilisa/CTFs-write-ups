@@ -19,7 +19,7 @@ usefull cyberchef tool :
 
 ![image](https://user-images.githubusercontent.com/57148042/73136749-78b6dc80-4051-11ea-84f8-2e6d54eeb06c.png)
 
-The result is still encoded, so we're not finished yet. Here we can notice that not a single digit is above 8, so we can (rightfully) assume that this is octal encoded : (be carefull though, as cyberchef separates base8 and octal, and the results are different if you used base8)
+The result is still encoded, so we're not finished yet. Here we can notice that not a single digit is above 8, so we can (rightfully) assume that this is octal encoded : (be carefull though, as cyberchef separates base8 and octal, and the results are different if you use base8)
 
 ![image](https://user-images.githubusercontent.com/57148042/73136788-d4816580-4051-11ea-8ba9-3268eaa7d6ee.png)
 
